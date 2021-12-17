@@ -41,7 +41,7 @@ right click and creat new files index.html and about.html
 	# edit and write some thing in these files
 Now you can open the pages built in the browser
 # Project Create a static webpage using html, css
-Static website
+**Static website steps**
 
 create a folder
 create a subfolder project name
